@@ -10,6 +10,6 @@ The WASM Transformer LLM is a powerful, lightweight language model designed to b
 3. Customizable and Extensible: The model architecture is built to be easily extensible, allowing developers to fine-tune and adapt it to specific use cases with minimal effort.
 4. Support for NLP Tasks: The WASM Transformer LLM is capable of handling a variety of NLP tasks, including text generation, summarization, translation, and more.
 
-Installation and Usage
+**Installation and Usage**
 
 Install Python 3.10 
